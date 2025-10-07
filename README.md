@@ -36,6 +36,7 @@ This Chrome extension replaces YouTube’s native fullscreen mode with a **custo
 | `content.js` | Main logic injected into YouTube pages — handles button creation and fake fullscreen behavior. |
 | `styles.css` | Applies layout and style adjustments during fake fullscreen. |
 | `popup.html` | The popup UI with a simple enable/disable toggle. |
+| `popup.css` | The popup css code. |
 | `popup.js` | Handles user interactions in the popup and communicates state to the content script. |
 
 ---
